@@ -8,7 +8,7 @@ author_profile : false
 search : true #검색 원치 않으면 false
 ---
 
-# EDA(Exploratory Data Analysis) and Data Preprocessing
+# EDA and Data Preprocessing
 
 ## EDA(Exploratory DATA Analysis)
 
@@ -58,10 +58,33 @@ EDA의 종류와 Target을 조합하여 아래와 같이 구분합니다.
 
   Category & Numeric : Boxplots, Stacked bar, Parallel Coordinate, Heatmap
 
-  * Boxplots :
-  * Stacked bar :
-  * Parallel Coordinate :
-  * Heatmap :
+  * Boxplots : 
+
+    * 많은 데이터를 눈으로 확인하기 어려울 때 그림을 이용해 데이터 집합의 범위와 중앙값을 빠르게 확인할 수 있는 목적으로 사용
+
+    * 통계적으로 이상치(Outlier) 있는지도 확인
+
+      <img src="../images/2022-04-02-EDA_Pre_Processing/image-20220402214935555.png" alt="image-20220402214935555" style="zoom: 33%;" />
+
+       ###### (출처 : https://leebaro.tistory.com/entry/%EB%B0%95%EC%8A%A4-%ED%94%8C%EB%A1%AFbox-plot-%EC%84%A4%EB%AA%85)
+
+  * Stacked bar : 막대차트의 응용으로 Bar가 누적된 형태의 차트
+
+    <img src="../images/2022-04-02-EDA_Pre_Processing/image-20220402215206037.png" alt="image-20220402215206037" style="zoom:33%;" />
+
+    ###### (출처 : https://jessymin.github.io/python/2019/02/10/stacked_bar_chart_python.html)
+
+  * Parallel Coordinate : 데이터의 각 행을 변수별로 선으로 매핑시켜 나타내는 방식
+
+    <img src="../images/2022-04-02-EDA_Pre_Processing/image-20220402215421654.png" alt="image-20220402215421654" style="zoom:33%;" />
+
+    ###### (출처 : file:///Users/jsshin/Downloads/Dialnet-AnalisisDeDatosMultivariantesConCoordenadasParalel-5897852.pdf)
+
+  * Heatmap : 데이터의 값을 컬러로 변환시켜 열 분포 형태로 보여주어 시각적인 분석을 가능하게 하는 데이터 시각화 기법
+
+    ​                      <img src="../images/2022-04-02-EDA_Pre_Processing/image-20220402220143118.png" alt="image-20220402220143118" style="zoom:33%;" />   
+
+    ###### (출처 : https://rfriend.tistory.com/419)
 
   Continuous & Numeric : Sactter Plot
 
@@ -70,6 +93,20 @@ EDA의 종류와 Target을 조합하여 아래와 같이 구분합니다.
 * Multi-Non Graphic
 
 
+
+# 글씨크기
+
+## 글씨크기
+
+### 글씨크기
+
+#### 글씨크기
+
+##### 글씨크기
+
+###### 글씨크기
+
+안녕하세요
 
 
 
