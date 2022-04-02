@@ -128,11 +128,7 @@ EDA의 종류와 Target을 조합하여 아래와 같이 구분합니다.
 
 * Data Frame
 
-  * index, columns, dtypes, info, select_dtypes, loc, iloc, insert, head, tail, apply, aggregate
-
-    , drop, rename, replace, nsmallest, nlargest, sort_values, sort_index, value_counts,
-
-    describe, shape
+  * index, columns, dtypes, info, select_dtypes, loc, iloc, insert, head, tail, apply, aggregate,drop, rename, replace, nsmallest, nlargest, sort_values, sort_index, value_counts, describe, shape
 
 * Visualization
   * plot, plot.area, plot.bar, plot.barh, plot.box, plot.density, plot.hexbin, plot.hist, plot.kde , plot.line, plot.pie, plot.scatter
