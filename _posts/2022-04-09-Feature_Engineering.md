@@ -2,7 +2,7 @@
 layout : single
 title : "Feature Engineering"
 categories : DATA
-tag : [Pandas, Feature Engineering, Data Preprocessing]
+tag : [Pandas, Feature Engineering, EDA]
 toc : true
 author_profile : false 
 search : true #검색 원치 않으면 false
